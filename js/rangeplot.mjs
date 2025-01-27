@@ -1,5 +1,5 @@
-import { nest, processData } from '/js/utils.mjs';
-import { setup as setupSVG } from '/js/svg.mjs';
+import { nest, processData } from './utils.mjs';
+import { setup as setupSVG } from './svg.mjs';
 
 export const draw = function (kwargs) {
 	// const filters = {  };

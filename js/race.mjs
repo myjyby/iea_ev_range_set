@@ -1,4 +1,4 @@
-import { nest, strJoin, processData, getURLParams, valuesMap } from '/js/utils.mjs';
+import { nest, strJoin, processData, getURLParams, valuesMap } from './utils.mjs';
 
 const hierarchy = [
 	'region',

@@ -1,5 +1,5 @@
-import { processData, getURLParams, paramsMap } from '/js/utils.mjs';
-import { draw as drawMap } from '/js/map.mjs';
+import { processData, getURLParams, paramsMap } from './utils.mjs';
+import { draw as drawMap } from './map.mjs';
 
 export const selectRegion = function (kwargs) {
 	const { data, multiple, fn } = kwargs || {};

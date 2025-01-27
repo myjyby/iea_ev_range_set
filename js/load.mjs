@@ -1,8 +1,8 @@
-import { nest, strJoin } from '/js/utils.mjs';
-import { draw as drawSankey } from '/js/sankey.mjs';
-import { draw as drawRace } from '/js/race.mjs';
-import { draw as drawRange } from '/js/rangeplot.mjs';
-import { draw as drawMap } from '/js/map.mjs';
+import { nest, strJoin } from './utils.mjs';
+import { draw as drawSankey } from './sankey.mjs';
+import { draw as drawRace } from './race.mjs';
+import { draw as drawRange } from './rangeplot.mjs';
+import { draw as drawMap } from './map.mjs';
 
 async function onLoad () {
 	const data = await d3.csv('/data/data.csv');

@@ -1,6 +1,6 @@
-import { processData, getURLParams, paramsMap } from '/js/utils.mjs';
-import { setup as setupSVG } from '/js/svg.mjs';
-import { selectRegion, filtersMenu } from '/js/ui.mjs';
+import { processData, getURLParams, paramsMap } from './utils.mjs';
+import { setup as setupSVG } from './svg.mjs';
+import { selectRegion, filtersMenu } from './ui.mjs';
 
 export const draw = async function (kwargs) {
 	selectRegion(kwargs);
