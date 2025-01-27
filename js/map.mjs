@@ -9,7 +9,7 @@ export const draw = async function (kwargs) {
 	const filters = getURLParams();
 	const { region } = filters;
 	
-	const geo = await d3.json(`/data/geo/${paramsMap[region[0]].geo}.geojson`);
+	const geo = await d3.json(`./data/geo/${paramsMap[region[0]].geo}.geojson`);
 	const { svg, width, height } = setupSVG();
 
 	const padding = 25;
