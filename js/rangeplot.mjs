@@ -2,8 +2,8 @@ import { nest, processData } from './utils.mjs';
 import { setup as setupSVG } from './svg.mjs';
 
 export const draw = function (kwargs) {
-	// const filters = {  };
-	const filters = { 'region': ['Europe'], 'category': 'Bus' };
+	const filters = {  };
+	// const filters = { 'region': ['Europe'], 'category': 'Bus' };
 	const unique = processData({ filters, ...kwargs }).filter(d => d.distance > 0);
 	const qt = d3.scaleQuantile(unique.map(d => d.distance), [1, 2, 3, 4]);
 	const qtvalues = unique.map(d => { return [d.distance, qt(d.distance) ] });
@@ -34,7 +34,7 @@ export const draw = function (kwargs) {
 		'cx': 0,
 		'cy': 0,
 		'r': d => sl(d),
-	}).style('fill', 'orange');
+	}).style('fill', 'rgba(0,0,0,.25)');
 	const q2 = g.addElems('circle', 'q2', [Math.min(...quartiles)])
 	.attrs({
 		'cx': 0,

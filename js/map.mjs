@@ -125,6 +125,57 @@ function overlay (kwargs) {
 		'fill': 'none',
 		'stroke': 'rgba(0,0,0,.75)',
 	});
+
+	const bps = d3.scaleLinear(d3.extent(unique.map(d => d.distance)), [0, 200])
+	const legend = d3.select('svg')
+	.addElems('g', 'legend', [[d3.quantile(unique.map(d => d.distance), 0), d3.quantile(unique.map(d => d.distance), 0.25), d3.quantile(unique.map(d => d.distance), 0.5), d3.quantile(unique.map(d => d.distance), 0.75), d3.quantile(unique.map(d => d.distance), 1)]])
+	.attr('transform', `translate(${[0, height - 120]})`)
+	legend.addElems('rect', 'box')
+	.attrs({
+		'width': d => bps(d[3]) - bps(d[1]),
+		'height': 40,
+		'x': d => bps(d[1]),
+	}).style('fill', 'rgba(0,0,0,.25)');
+	legend.addElems('line', 'median')
+	.attrs({
+		'x1': d => bps(d[2]),
+		'y1': 0,
+		'x2': d => bps(d[2]),
+		'y2': 40,
+	}).styles({
+		'fill': 'none',
+		'stroke': 'rgba(0,0,0,.75)',
+	});
+	legend.addElems('text', 'label', d => d)
+	.attr('transform', (d, i) => {
+		return `translate(${[bps(d), -5 -(10 * (i === 2 ? 1 : 0))]})`
+	})
+	.text((d, i) => {
+		if (i === 4) return `${Math.round(+d)} km`;
+		else return Math.round(+d)
+	});
+	const legend_whiskers = legend.addElems('g', 'whiskers')
+	.attr('transform', d => `translate(${[0, 20]})`)
+	legend_whiskers.addElems('line', 'main')
+	.attrs({
+		'x1': 0,
+		'y1': 0,
+		'x2': d => bps(d[4]),
+		'y2': 0,
+	}).styles({
+		'fill': 'none',
+		'stroke': 'rgba(0,0,0,.75)',
+	});
+	legend_whiskers.addElems('line', 'sides', d => [d[0], d[4]])
+	.attrs({
+		'x1': d => bps(d),
+		'y1': -10,
+		'x2': d => bps(d),
+		'y2': 10,
+	}).styles({
+		'fill': 'none',
+		'stroke': 'rgba(0,0,0,.75)',
+	});
 }
 function regionSelect () {
 

@@ -58,9 +58,11 @@ export const processData = function (kwargs) {
 
   if (filters && Object.keys(filters).length > 0) {
     for (let key in filters) {
-      let values = filters[key]?.map(d => d.toString().toLowerCase());
-      if (!Array.isArray(values)) values = [values]
-      data = data.filter(d => values.includes(d[key]));
+      if (key !== 'product') {
+        let values = filters[key]?.map(d => d.toString().toLowerCase());
+        if (!Array.isArray(values)) values = [values]
+        data = data.filter(d => values.includes(d[key]));
+      }
     }
   }
 

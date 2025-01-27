@@ -11,6 +11,7 @@ export const selectRegion = function (kwargs) {
 		// .attr('multiple', multiple || null)
 	.on('change', function (e, d) {
 		const params = new URLSearchParams();
+		params.set('product', 2)
 		params.set('region', this.value)
 		window.history.pushState('', '', `?${params.toString()}`);
 		window.location.reload();
@@ -19,7 +20,7 @@ export const selectRegion = function (kwargs) {
 		.attr('value', d => d)
 		.html(d => d);
 
-	select.node().value = filters['region'][0];
+	if (filters['region']?.length) select.node().value = filters['region']?.[0];
 }
 export const filtersMenu = function (kwargs) {
 	const filters = getURLParams();
@@ -85,5 +86,13 @@ export const filtersMenu = function (kwargs) {
 	});
 	filters_values.addElems('label')
 		.attr('for', d => d.value.toString().replace(/\s\./g, '').toLowerCase().trim())
-		.html(d => d.value)
+		.html(d => d.value);
+
+	d3.select('section.filters')
+	.addElems('p')
+	.html(`
+		Select your region of interest from the top left dropdown menu, then drag 
+		the black dot and drop it on your origin location to see the range of 
+		selected vehicles, and whether they can reach your destination point.
+	`)
 }
