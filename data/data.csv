@@ -1,0 +1,630 @@
+﻿technology,vehicle_type,category,available year,region,range (km)
+Fuel Cell,Transit bus,Bus,2019,Europe,300
+Electric,Transit bus,Bus,2019,Europe,250
+Electric,Cargo van,MFT,2022,U.S. & Canada,160.9344
+Electric,Cargo van,MFT,2022,Europe,160
+Electric,School bus,Bus,2019,U.S. & Canada,193.12128
+Electric,School bus,Minibus,2021,U.S. & Canada,160.9344
+Electric,School bus,Bus,2021,U.S. & Canada,193.12128
+Electric,Transit bus,Bus,2019,Europe,280
+Electric,Transit bus,Bus,2019,Europe,280
+Electric,Transit bus,Bus,2019,Europe,300
+Electric,Transit bus,Bus,2019,Europe,300
+Electric,MD truck,MFT,2019,U.S. & Canada,249.44832
+Electric,MD truck,MFT,2021,U.S. & Canada,199.558656
+Electric,Other,MFT,2021,U.S. & Canada,201.168
+Electric,Other,HFT,2019,U.S. & Canada,90.123264
+Electric,HD truck,HFT,2021,China,201.168
+Electric,HD truck,HFT,2021,U.S. & Canada,201.168
+Electric,Yard tractor,HFT,2019,U.S. & Canada,Reported in Hrs
+Electric,Transit bus,Bus,2019,Europe,257.49504
+Electric,Transit bus,Bus,2019,Europe,257.49504
+Electric,Transit bus,Bus,2019,Europe,257.49504
+Electric,Transit bus,Bus,2019,Europe,257.49504
+Electric,Transit bus,Bus,2019,Europe,257
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2021,U.S. & Canada,370.14912
+Electric,Transit bus,Bus,2019,Europe,370
+Electric,Transit bus,Bus,2019,U.S. & Canada,370.14912
+Electric,Transit bus,Minibus,2019,China,200
+Electric,Transit bus,Minibus,2019,India,200
+Electric,Transit bus,Minibus,2019,U.S. & Canada,199.558656
+Electric,Shuttle bus,Bus,2019,China,270
+Electric,Transit bus,Bus,2019,China,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2021,U.S. & Canada,321.8688
+Electric,Transit bus,Bus,2021,U.S. & Canada,273.58848
+Electric,Transit bus,Bus,2019,China,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2019,U.S. & Canada,321.8688
+Electric,Other,HFT,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,Europe,200
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2021,U.S. & Canada,354.05568
+Electric,Transit bus,Bus,2019,China,300
+Electric,Transit bus,Minibus,2019,China,480
+Electric,Transit bus,Bus,2019,China,220.480128
+Electric,Transit bus,Bus,2021,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2019,China,280
+Electric,Transit bus,Bus,2021,U.S. & Canada,233.35488
+Electric,Transit bus,Bus,2019,China,250
+Electric,Transit bus,Bus,2019,Latin America,233
+Electric,Transit bus,Bus,2019,China,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2021,U.S. & Canada,252.667008
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,HD truck,HFT,2019,China,100
+Electric,HD truck,HFT,2019,India,100
+Electric,HD truck,MFT,2021,China,90
+Electric,HD truck,MFT,2021,China,150
+Electric,Cargo van,MFT,2019,India,300
+Electric,HD truck,HFT,2019,China,280
+Electric,Other,HFT,2019,China,280
+Electric,Cargo van,MFT,2019,China,300
+Electric,MD truck,MFT,2019,China,170
+Electric,MD truck,HFT,2020,China,170
+Electric,MD truck,MFT,2019,China,250
+Electric,MD truck,MFT,2020,Europe,200
+Electric,Cargo van,MFT,2019,China,240
+Electric,MD truck,MFT,2019,U.S. & Canada,199.558656
+Electric,Other,HFT,2019,China,200
+Electric,Other,HFT,2019,India,200
+Electric,School Bus,Bus,2021,U.S. & Canada,249.44832
+Electric,Transit bus,Bus,2019,Europe,300
+Electric,Transit bus,Bus,2020,Europe,70
+Fuel Cell,Transit bus,Bus,2019,Europe,400
+Electric,Cargo van,MFT,2022,U.S. & Canada,370.14912
+Electric,Cargo van,MFT,2022,U.S. & Canada,305.77536
+Electric,Transit bus,Bus,2019,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2019,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2019,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2019,China,460
+Electric,Transit bus,Minibus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,225
+Electric,MD truck,MFT,2019,China,225
+Electric,MD truck,MFT,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,550
+Electric,Transit bus,Bus,2019,China,469
+Electric,Transit bus,Bus,2019,China,205
+Fuel Cell,Transit bus,Bus,2019,China,500
+Electric,Transit bus,Bus,2019,China,520
+Electric,Transit bus,Bus,2019,China,300
+Electric,Cargo van,MFT,2019,China,200
+Electric,Cargo van,MFT,2019,China,290
+Electric,Transit bus,Bus,2019,China,325
+Electric,School bus,Minibus,2020,U.S. & Canada,193.12128
+Electric,Transit bus,Minibus,2020,China,274
+Electric,Cargo van,MFT,2020,China,310
+Electric,Transit bus,Bus,2019,China,666
+Electric,Transit bus,Bus,2020,China,251
+Electric,Transit bus,Bus,2019,China,465
+Electric,Transit bus,Bus,2019,China,270
+Electric,Transit bus,Bus,2019,China,204
+Electric,Transit bus,Bus,2019,China,201
+Electric,Transit bus,Bus,2020,China,655
+Electric,Transit bus,Minibus,2020,China,390
+Electric,Transit bus,Minibus,2019,China,440
+Electric,Transit bus,Minibus,2019,China,440
+Electric,Transit bus,Bus,2019,China,477
+Electric,Transit bus,Bus,2019,China,280
+Electric,Transit bus,Bus,2020,China,330
+Electric,Transit bus,Bus,2019,China,340
+Electric,Transit bus,Bus,2019,China,420
+Electric,Transit bus,Bus,2020,China,390
+Electric,HD truck,HFT,2019,Europe,200
+Electric,HD truck,HFT,2019,Europe,220
+Electric,Cargo van,MFT,2020,China,345
+Electric,Cargo van,MFT,2019,China,220
+Electric,Cargo van,MFT,2019,China,255
+Electric,Cargo van,MFT,2019,China,360
+Electric,HD truck,HFT,2020,China,390
+Electric,Cargo van,MFT,2019,China,355
+Electric,HD truck,HFT,2019,Europe,500
+Electric,HD truck,HFT,2019,Europe,500
+Electric,HD truck,HFT,2019,Europe,500
+Electric,Other,HFT,2019,Europe,500
+Fuel Cell,Other,HFT,2019,Europe,120
+Electric,Shuttle bus,Minibus,2019,U.S. & Canada,Reported in Hrs
+Electric,Yard tractor,HFT,2019,U.S. & Canada,Reported in Hrs
+Electric,Transit bus,Bus,2019,India,177
+Electric,HD truck,HFT,2023,Europe,200
+Fuel Cell,Transit bus,Bus,2020,U.S. & Canada,418.42944
+Fuel Cell,Transit bus,Bus,2020,U.S. & Canada,418.42944
+Electric,Transit bus,Bus,2019,Latin America,260
+Electric,Transit bus,Bus,2019,Latin America,200
+Electric,Cargo van,MFT,2021,U.S. & Canada,273.58848
+Electric,Cargo van,MFT,2021,U.S. & Canada,273.58848
+Electric,MD truck,MFT,2021,U.S. & Canada,273.58848
+Fuel Cell,HD truck,HFT,2019,Europe,400
+Electric,Cargo Van,MFT,2021,Australia,305
+Electric,MD truck,MFT,2020,China,310
+Electric,Transit bus,Minibus,2019,China,300
+Electric,Cargo Van,MFT,2022,Europe,230
+Electric,Cargo Van,MFT,2022,Europe,230
+Electric,Cargo van,MFT,2022,U.S. & Canada,202.777344
+Electric,Cargo van,MFT,2022,Europe,202
+Electric,MD truck,MFT,2020,China,300
+Electric,MD truck,MFT,2020,China,400
+Electric,Transit bus,Bus,2020,China,240
+Electric,Transit bus,Bus,2019,China,270
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Minibus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,HD truck,HFT,2022,U.S. & Canada,402.336
+Electric,MD truck,MFT,2022,U.S. & Canada,370.14912
+Electric,HD truck,HFT,2022,U.S. & Canada,402.336
+Electric,MD step van,MFT,2021,U.S. & Canada,200
+Electric,MD truck,MFT,2019,Europe,100
+Fuel Cell,MD truck,MFT,2021,Europe,300
+Electric,HD truck,HFT,2023,Europe,350
+Electric,HD truck,HFT,2023,China,349.227648
+Electric,Other,HFT,2020,Europe,760
+Electric,HD truck,HFT,2020,Europe,570
+Electric,HD truck,HFT,2020,Europe,760
+Electric,Cargo van,MFT,2022,U.S. & Canada,402.336
+Electric,Transit bus,Bus,2020,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2020,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2020,U.S. & Canada,241.4016
+Electric,Cargo van,MFT,2019,Europe,185
+Electric,HD truck,HFT,2019,Europe,280
+Electric,HD truck,HFT,2019,Europe,270
+Electric,HD truck,HFT,2019,Europe,270
+Electric,HD truck,HFT,2019,Europe,250
+Electric,HD truck,HFT,2019,Europe,230
+Electric,Transit bus,Bus,2019,China,200
+Electric,Transit bus,Bus,2019,China,400
+Electric,School bus,Bus,2021,U.S. & Canada,241.4016
+Electric,Shuttle bus,Bus,2019,U.S. & Canada,241.4016
+Electric,Shuttle bus,Bus,2019,U.S. & Canada,241.4016
+Electric,Cargo van,MFT,2019,U.S. & Canada,241.4016
+Electric,Cargo van,MFT,2019,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,Shuttle bus,Bus,2019,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2019,U.S. & Canada,281.6352
+Electric,Transit bus,Bus,2019,U.S. & Canada,321.8688
+Electric,Transit bus,Bus,2019,U.S. & Canada,281.6352
+Electric,Transit bus,Bus,2019,U.S. & Canada,209.21472
+Fuel Cell,HD truck,HFT,2023,U.S. & Canada,1287.4752
+Fuel Cell,HD truck,HFT,2023,Europe,1287
+Fuel Cell,HD truck,HFT,2023,U.S. & Canada,400.726656
+Fuel Cell,HD truck,HFT,2019,Europe,400
+Fuel Cell,HD Truck,HFT,2021,Europe,804.672
+Fuel Cell,HD Truck,HFT,2021,U.S. & Canada,804.672
+Fuel Cell,HD Truck,MFT,2021,Europe,563.2704
+Fuel Cell,HD Truck,MFT,2021,U.S. & Canada,563.2704
+Fuel Cell,Transit Bus,Bus,2021,U.S. & Canada,402.336
+Fuel Cell,HD Truck,HFT,2021,China,804.672
+Fuel Cell,HD Truck,HFT,2021,Australia,804.672
+Fuel Cell,HD Truck,MFT,2021,Australia,563.2704
+Fuel Cell,HD Truck,MFT,2021,China,563.2704
+Fuel Cell,Other,HFT,2021,Australia,200
+Fuel Cell,HD Truck,HFT,2022,Australia,650
+Electric,School bus,Bus,2021,U.S. & Canada,321.8688
+Electric,HD truck,HFT,2020,China,300
+Electric,MD truck,HFT,2022,U.S. & Canada,402.336
+Electric,MD truck,MFT,2022,U.S. & Canada,402.336
+Electric,Transit bus,Bus,2019,Europe,250
+Electric,Transit bus,Bus,2019,Europe,250
+Electric,Transit bus,Bus,2019,Europe,250
+Electric,Transit bus,Bus,2019,Europe,250
+Electric,HD truck,HFT,2019,Europe,200
+Electric,Transit Bus,Bus,2021,Europe,300
+Electric,Cargo van,MFT,2019,Europe,200
+Electric,MD truck,MFT,2019,China,295
+Electric,MD truck,MFT,2020,China,360
+Electric,MD truck,MFT,2020,China,170
+Electric,MD truck,MFT,2019,China,430
+Electric,Cargo Van,MFT,2021,Latin America,177.02784
+Electric,Transit bus,Bus,2019,India,200
+Electric,Transit bus,Bus,2019,India,200
+Electric,Yard tractor,HFT,2020,U.S. & Canada,Not Available
+Electric,Transit bus,Minibus,2019,Europe,69
+Electric,Transit bus,Bus,2019,Europe,100
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Fuel Cell,HD truck,HFT,2023,U.S. & Canada,241.4016
+Electric,HD truck,HFT,2021,U.S. & Canada,241.4016
+Electric,Transit Bus,Bus,2019,China,Not Available
+Electric,Transit Bus,Bus,2019,China,Not Available
+Electric,Transit bus,Minibus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit Bus,Bus,2022,U.S. & Canada,Not Available
+Electric,Other,HFT,2021,Europe,380
+Electric,MD truck,MFT,2019,U.S. & Canada,209.21472
+Electric,Transit bus,Bus,2019,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2019,U.S. & Canada,193.12128
+Electric,Shuttle bus,Bus,2020,U.S. & Canada,193.12128
+Electric,Shuttle bus,Minibus,2019,U.S. & Canada,225.30816
+Electric,Shuttle bus,Bus,2020,U.S. & Canada,Not Available
+Electric,Transit bus,Bus,2020,U.S. & Canada,313.82208
+Electric,School bus,Minibus,2020,U.S. & Canada,193.12128
+Electric,Cargo van,MFT,2020,U.S. & Canada,273.58848
+Electric,MD step van,MFT,2021,U.S. & Canada,273.58848
+Electric,MD truck,MFT,2021,U.S. & Canada,289.68192
+Electric,HD truck,HFT,2021,U.S. & Canada,289.68192
+Electric,Other,HFT,2021,U.S. & Canada,273.58848
+Electric,Other,HFT,2021,U.S. & Canada,402.336
+Electric,School bus,Minibus,2021,U.S. & Canada,241.4016
+Electric,School bus,Bus,2021,U.S. & Canada,249.44832
+Electric,School bus,Bus,2021,U.S. & Canada,249.44832
+Electric,Shuttle bus,Bus,2021,U.S. & Canada,241.4016
+Electric,Shuttle bus,Minibus,2019,U.S. & Canada,64.37376
+Electric,Yard tractor,HFT,2019,U.S. & Canada,Reported in Hrs
+Electric,Yard tractor,HFT,2019,U.S. & Canada,Reported in Hrs
+Electric,Other,HFT,2020,U.S. & Canada,Not Available
+Electric,Cargo van,HFT,2019,Europe,115
+Electric,HD truck,HFT,2022,Europe,190
+Electric,Transit bus,Bus,2020,Europe,270
+Electric,Transit bus,Bus,2021,Europe,150
+Electric,HD truck,HFT,2021,U.S. & Canada,199.558656
+Electric,HD truck,HFT,2021,Europe,201.168
+Electric,HD truck,HFT,2021,Europe,321.8688
+Electric,Transit bus,Bus,2021,U.S. & Canada,218.870784
+Electric,HD truck,HFT,2022,Europe,200
+Electric,Cargo van,MFT,2019,Europe,150
+Electric,Cargo van,MFT,2019,Europe,150
+Electric,HD truck,HFT,2020,Europe,200
+Electric,Shuttle bus,Minibus,2021,U.S. & Canada,201.168
+Electric,Shuttle bus,Minibus,2019,U.S. & Canada,193.12128
+Electric,School bus,Minibus,2019,U.S. & Canada,193.12128
+Electric,Shuttle bus,Minibus,2019,U.S. & Canada,193.12128
+Electric,MD step van,MFT,2021,U.S. & Canada,193.12128
+Electric,MD step van,MFT,2021,U.S. & Canada,193.12128
+Electric,MD truck,MFT,2019,U.S. & Canada,193.12128
+Electric,MD truck,MFT,2019,U.S. & Canada,193.12128
+Electric,Other,MFT,2019,U.S. & Canada,193.12128
+Electric,Transit bus,Bus,2020,U.S. & Canada,265.54176
+Electric,Transit bus,Bus,2020,U.S. & Canada,370.14912
+Electric,Transit bus,Bus,2020,U.S. & Canada,362.1024
+Electric,Transit bus,Bus,2020,U.S. & Canada,362.1024
+Electric,Transit bus,Bus,2020,U.S. & Canada,217.26144
+Fuel Cell,Transit bus,Bus,2020,U.S. & Canada,563.2704
+Fuel Cell,Transit bus,Bus,2020,U.S. & Canada,563.2704
+Electric,HD truck,HFT,2021,U.S. & Canada,563.2704
+Electric,HD truck,HFT,2021,Europe,563.2704
+Fuel Cell,HD truck,HFT,2023,U.S. & Canada,804.672
+Fuel Cell,HD truck,HFT,2023,Europe,804.672
+Electric,HD truck,HFT,2024,Europe,1448.4096
+Fuel Cell,HD truck,HFT,2024,U.S. & Canada,1448.4096
+Electric,Cargo van,MFT,2019,Europe,140
+Electric,Cargo van,MFT,2019,China,300.947328
+Electric,Transit bus,Bus,2021,U.S. & Canada,120.7008
+Electric,Transit bus,Bus,2021,U.S. & Canada,469.928448
+Electric,Transit bus,Bus,2019,India,200
+Electric,Transit bus,Bus,2019,India,200
+Electric,Transit bus,Bus,2019,India,300
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2019,India,240
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Transit bus,Bus,2019,India,250
+Electric,Shuttle bus,Bus,2021,U.S. & Canada,201.168
+Electric,Yard tractor,HFT,2021,U.S. & Canada,Reported in Hrs
+Electric,MD truck,MFT,2019,Europe,200
+Electric,MD truck,MFT,2019,Europe,100
+Electric,HD truck,HFT,2019,Europe,200
+Electric,MD truck,MFT,2019,Europe,150
+Electric,MD truck,MFT,2019,Europe,150
+Electric,MD truck,MFT,2019,Europe,100
+Electric,Transit bus,Bus,2020,Europe,300
+Electric,MD truck,MFT,2020,U.S. & Canada,402.336
+Electric,MD truck,HFT,2020,U.S. & Canada,402.336
+Electric,HD truck,MFT,2020,U.S. & Canada,144.84096
+Electric,HD truck,HFT,2020,U.S. & Canada,144.84096
+Electric,HD truck,HFT,2020,U.S. & Canada,321.8688
+Electric,Shuttle bus,Bus,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2019,U.S. & Canada,241.4016
+Electric,School bus,Minibus,2020,U.S. & Canada,241.4016
+Electric,Transit bus,Bus,2020,U.S. & Canada,386.24256
+Electric,Transit bus,Bus,2020,U.S. & Canada,193.12128
+Electric,Transit bus,Bus,2020,U.S. & Canada,529.474176
+Electric,Transit bus,Bus,2020,U.S. & Canada,373.367808
+Electric,Transit bus,Bus,2020,U.S. & Canada,529.474176
+Electric,Other,HFT,2019,Europe,175
+Electric,Transit bus,Bus,2020,Europe,300
+Electric,HD truck,HFT,2019,Europe,500
+Electric,MD truck,MFT,2019,Europe,250
+Electric,HD truck,HFT,2019,Europe,250
+Electric,Transit bus,Bus,TBD,Europe,200
+Electric,Transit bus,Minibus,2019,Europe,215
+Electric,Transit bus,Bus,2019,Europe,180
+Fuel Cell,Transit bus,Bus,TBD,Europe,200
+Electric,HD truck,HFT,2019,Europe,300
+Electric,Cargo van,MFT,2021,Europe,120
+Electric,MD step van,MFT,2021,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2021,U.S. & Canada,160.9344
+Electric,HD truck,HFT,2021,U.S. & Canada,Not Available
+Electric,Cargo van,MFT,2019,Latin America,200
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,MD truck,HFT,2021,Europe,250
+Electric,HD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,HD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,Other,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,193.12128
+Electric,Shuttle bus,Minibus,2020,U.S. & Canada,321.8688
+Electric,MD step van,MFT,2020,U.S. & Canada,321.8688
+Electric,MD step van,MFT,2020,U.S. & Canada,321.8688
+Electric,MD step van,MFT,2020,U.S. & Canada,321.8688
+Electric,MD step van,MFT,2020,U.S. & Canada,321.8688
+Electric,MD step van,HFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,MD step van,MFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,HFT,2021,U.S. & Canada,273.58848
+Electric,Cargo van,MFT,2021,U.S. & Canada,241.4016
+Electric,Cargo van,MFT,2021,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,Shuttle bus,Minibus,2020,U.S. & Canada,241.4016
+Electric,HD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,Other,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,HD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,HD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,HFT,2020,U.S. & Canada,321.8688
+Electric,HD truck,HFT,2020,U.S. & Canada,201.168
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,HD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,241.4016
+Electric,Cargo van,MFT,2020,U.S. & Canada,241.4016
+Electric,Cargo van,MFT,2020,U.S. & Canada,241.4016
+Electric,Shuttle bus,Minibus,2020,U.S. & Canada,241.4016
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,HFT,2020,U.S. & Canada,241.4016
+Electric,MD truck,MFT,2020,U.S. & Canada,321.8688
+Electric,MD step van,MFT,2021,U.S. & Canada,321.8688
+Electric,MD step van,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,MFT,2021,U.S. & Canada,321.8688
+Electric,MD truck,HFT,2021,U.S. & Canada,273.58848
+Electric,HD truck,HFT,2019,Australia,300
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,India,Not Available
+Fuel Cell,Transit bus,Bus,2020,Europe,Not Available
+Electric,Transit bus,Bus,2019,U.S. & Canada,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2021,Europe,Not Available
+Electric,Transit bus,Bus,2019,India,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Fuel Cell,Transit bus,Bus,2019,India,Not Available
+Electric,Transit bus,Bus,2019,India,Not Available
+Electric,Transit bus,Bus,2019,U.S. & Canada,150
+Electric,MD Truck,MFT,2020,India,100
+Electric,Transit bus,Bus,2019,China,150
+Electric,Transit bus,Bus,2019,Europe,350
+Electric,Transit bus,Bus,2019,Europe,230
+Electric,HD truck,HFT,2022,U.S. & Canada,804.672
+Electric,HD truck,HFT,2022,Europe,800
+Electric,MD truck,MFT,2021,Europe,250
+Electric,School bus,Bus,2021,U.S. & Canada,215.652096
+Fuel Cell,HD truck,HFT,2023,U.S. & Canada,482.8032
+Electric,MD step van,HFT,2021,U.S. & Canada,201.168
+Fuel Cell,MD step van,HFT,2021,U.S. & Canada,225.30816
+Electric,MD truck,MFT,2021,U.S. & Canada,120.7008
+Electric,School bus,Minibus,2021,U.S. & Canada,120.7008
+Electric,Shuttle bus,Minibus,2021,U.S. & Canada,120.7008
+Electric,MD step van,MFT,2021,U.S. & Canada,201.168
+Fuel Cell,MD step van,MFT,2021,U.S. & Canada,225.30816
+Electric,MD step van,MFT,2020,U.S. & Canada,201.168
+Fuel Cell,MD step van,MFT,2020,U.S. & Canada,241.4016
+Electric,School bus,Bus,2020,U.S. & Canada,201.168
+Electric,MD truck,MFT,2019,Europe,140
+Electric,MD step van,MFT,2019,U.S. & Canada,120.7008
+Fuel Cell,Shuttle bus,Bus,2019,U.S. & Canada,201.168
+Fuel Cell,Shuttle bus,Bus,2019,U.S. & Canada,321.8688
+Fuel Cell,MD step van,MFT,2019,U.S. & Canada,201.168
+Fuel Cell,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2021,U.S. & Canada,498.89664
+Electric,Transit bus,Bus,2021,Europe,500
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,Transit bus,Bus,2020,China,Not Available
+Electric,Cargo van,MFT,2019,Europe,161
+Electric,MD truck,MFT,2020,Europe,200
+Electric,MD Truck,MFT,2021,Latin America,199.558656
+Electric,MD truck,HFT,2021,Europe,200
+Electric,HD truck,HFT,2019,Australia,240
+Electric,Transit bus,Bus,2019,Europe,Not Available
+Electric,HD truck,HFT,2019,Europe,300
+Electric,Other,HFT,2020,Europe,200
+Electric,HD truck,HFT,2019,Europe,240
+Electric,HD truck,HFT,2021,U.S. & Canada,442.5696
+Electric,HD Truck,HFT,2022,Europe,380
+Electric,HD Truck,HFT,2022,Europe,320
+Electric,HD Truck,HFT,2022,Europe,300
+Electric,MD truck,MFT,2021,U.S. & Canada,241.4016
+Electric,MD step van,MFT,2022,U.S. & Canada,321.8688
+Electric,Transit bus,Bus,2020,China,238
+Electric,Transit bus,Minibus,2020,China,252
+Electric,Transit bus,Minibus,2020,China,280
+Electric,Transit bus,Minibus,2020,China,Not Available
+Electric,Transit bus,Bus,2020,China,201
+Electric,Transit bus,Bus,2020,China,300
+Electric,Transit bus,Bus,2020,China,540
+Electric,Transit bus,Bus,2020,China,150
+Electric,Transit bus,Bus,2020,China,130
+Electric,Transit bus,Bus,2020,China,252
+Electric,Transit bus,Bus,2020,China,150
+Electric,Transit bus,Bus,2020,China,Not Available
+Electric,Transit bus,Bus,2020,China,100
+Electric,Transit bus,Bus,2020,China,100
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Minibus,2019,China,Not Available
+Electric,Transit bus,Bus,2020,China,130
+Electric,Transit bus,Bus,2020,China,151
+Electric,Transit bus,Bus,2020,China,151
+Electric,Shuttle bus,Bus,2020,China,151
+Electric,Cargo van,MFT,2019,China,212
+Electric,Other,MFT,2019,China,316
+Electric,Cargo van,MFT,2019,China,180
+Electric,MD truck,MFT,2019,China,150
+Electric,MD truck,MFT,2019,China,200
+Electric,MD truck,MFT,2019,China,220
+Electric,MD truck,MFT,2019,China,180
+Electric,Shuttle bus,Bus,2019,China,Not Available
+Electric,Shuttle bus,Bus,2020,China,118
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,225
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,151
+Electric,Transit bus,Bus,2019,China,241
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Shuttle bus,Bus,2019,China,278
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,300
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2020,China,330
+Electric,Transit bus,Bus,2020,China,205
+Electric,Transit bus,Bus,2020,China,540
+Electric,Transit bus,Minibus,2019,China,315
+Electric,Transit bus,Bus,2019,China,250
+Electric,Transit bus,Bus,2019,China,170
+Electric,Transit bus,Bus,2019,China,505
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,School bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Minibus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,China,260
+Electric,Transit bus,Bus,2019,China,300
+Electric,Shuttle bus,Bus,2020,China,180
+Electric,Transit bus,Bus,2019,China,300
+Electric,Shuttle bus,Bus,2019,Latin America,Not Available
+Electric,Transit bus,Minibus,2020,China,280
+Electric,Shuttle bus,Bus,2020,China,130
+Electric,Shuttle bus,Bus,2020,China,175
+Electric,Shuttle bus,Bus,2020,China,305
+Electric,MD Truck,MFT,2022,U.S. & Canada,Not Available
+Electric,MD Truck,MFT,2022,U.S. & Canada,Not Available
+Electric,MD Truck,MFT,2022,U.S. & Canada,Not Available
+Electric,Transit bus,Bus,2020,China,290
+Electric,Transit bus,Bus,2019,China,255
+Electric,Transit bus,Bus,2020,China,675
+Electric,Transit bus,Bus,2019,China,Not Available
+Electric,Transit bus,Bus,2019,India,Not Available
+Electric,Transit bus,Bus,2019,China,250
+Fuel Cell,Transit bus,Bus,2019,China,500
+Electric,Transit bus,Minibus,2019,China,250
+Electric,Transit bus,Minibus,2019,China,155
+Electric,Transit bus,Bus,2019,China,320
+Electric,Transit bus,Bus,2019,China,260
+Electric,Transit bus,Bus,2020,China,215
+Electric,Transit bus,Bus,2019,China,305
+Electric,Transit bus,Bus,2019,China,210
+Electric,Transit bus,Bus,2020,China,350
+Electric,Transit bus,Bus,2020,China,635
+Electric,Transit bus,Minibus,2020,China,480
