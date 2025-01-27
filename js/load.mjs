@@ -5,7 +5,7 @@ import { draw as drawRange } from './rangeplot.mjs';
 import { draw as drawMap } from './map.mjs';
 
 async function onLoad () {
-	const data = await d3.csv('/data/data.csv');
+	const data = await d3.csv('../data/data.csv');
 	const { columns } = data;
 	// console.log(data.filter(d => d['technology'] === 'Fuel Cell').length)
 
